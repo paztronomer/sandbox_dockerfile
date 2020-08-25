@@ -1,0 +1,1 @@
+* * * * * bash /home/qmost/backup.sh >> /home/qmost/persistent/backup_cron.log 2>&1
